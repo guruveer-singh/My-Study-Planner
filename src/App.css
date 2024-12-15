@@ -1,0 +1,19 @@
+
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.calendar-section, .task-section, .pomodoro-section, .badge-section {
+  align-items: center;
+  margin: 20px;
+}
+.completed {
+  text-decoration: line-through;
+}
+.timer-display {
+  font-size: 2em;
+  margin: 10px;
+}
+
